@@ -1,0 +1,20 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unityvrws3photon.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+<<<<<<< Updated upstream
+      "action_manifest_path": "D:\\CESI\\DEV\\OptionRV-RA\\UnityVR-WS3-Photon\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+=======
+      "action_manifest_path": "C:\\Users\\PCVR04\\Desktop\\UnityVR-WS3-Photon - Ewok\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+>>>>>>> Stashed changes
+      "strings": {
+        "en_us": {
+          "name": "UnityVR-WS3-Photon [Testing]"
+        }
+      }
+    }
+  ]
+}

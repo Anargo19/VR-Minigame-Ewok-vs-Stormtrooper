@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Rr]elease/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -46,6 +47,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.psd
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -70,3 +72,38 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_1_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_1_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_2_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_2_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_3_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_3_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_4_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_4_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_5_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_5_Normal.psd.meta
+Assets/UnirtEvent.cs
+Assets/UnirtEvent.cs.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_1_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_1_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_2_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_2_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_3_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_3_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_4_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_4_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_5_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_5_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_1_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_1_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_2_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_2_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_3_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_3_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_4_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_4_Normal.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_5_Diffuse.psd.meta
+Assets/_AssetStore/Sci-Fi Texture Pack 1/Textures/Texture_5_Normal.psd.meta
+Assets/UnirtEvent.cs
+Assets/UnirtEvent.cs.meta
+Assets/XR/XRGeneralSettings.asset
